@@ -1,2 +1,2 @@
 # Aws
-to lear aws
+to learn aws
